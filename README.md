@@ -48,6 +48,8 @@ Pembagian IP berdasarkan tree yang telah dibuat.
 ## CIDR
 ## Penggabungan IP
 
+<img width="2500" alt="cidr" src="https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/d925e28c-2da9-4e80-b7d9-dc53e48f696e">
+
 ![Cuplikan layar 2023-12-05 173547](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/d1a5abea-918d-42ae-aca4-5db48322e91a)
 
 ![Cuplikan layar 2023-12-05 173555](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/f8e1d89c-8efb-4f8b-b3c5-dd28d1bc98d5)
