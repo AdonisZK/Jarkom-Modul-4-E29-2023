@@ -15,9 +15,12 @@ Kelompok E29
 ![Screenshot 2023-11-28 235649](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/70cf4226-8b98-4198-a6a0-817ece9d6a74)
 
 ## VLSM
-### Subnetting VLSM
+### Subnetting
 Menentukan rute dan jumlah subnet pada topologi.
 ![WhatsApp Image 2023-12-05 at 16 05 00](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/ee5fb45d-3b1e-49e2-b1fb-ecc73a314eca)
 
-### Pembagian Subnet VLSM
+### Pembagian Subnet
 Menentukan jumlah alamat IP yang dibutuhkan tiap subnet.
+![Cuplikan layar 2023-12-05 160155](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/32bfb63a-c662-401f-abfc-638af0c12fd0)
+
+### Tree
