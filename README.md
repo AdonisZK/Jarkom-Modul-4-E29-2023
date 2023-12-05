@@ -68,4 +68,6 @@ Membuat tree untuk dapat menentukan pembagian IP.
 ![Tree](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/d12a9a30-5228-4cc0-8524-292c2353be05)
 
 ### Pembagian IP CIDR
+Pembagian IP berdasarkan tree yang telah dibuat.
 
+![Cuplikan layar 2023-12-05 181806](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/7edc6917-80fc-49a9-b432-8917d1a36c57)
