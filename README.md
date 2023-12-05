@@ -43,6 +43,10 @@ Pembagian IP berdasarkan tree yang telah dibuat.
 
 ![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/53437903-8db1-454f-a7f6-dd84c80bc33c)
 
+### Testing
+https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/24053a9a-f1d1-4075-a95f-206030f11968
+
+
 ### Konfigurasi Network
 
 ## CIDR
