@@ -16,7 +16,7 @@ Kelompok E29
   * [Konfigurasi Network](#Konfigurasi-Network)    
 * [CIDR](#CIDR)
   * [Penggabungan IP](#Penggabungan-IP)
-  * 
+  * [Tree](#Tree)
 
 ## Topologi
 
@@ -49,7 +49,7 @@ https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/fd3cd4a5-6b2
 ### Konfigurasi Network
 
 ## CIDR
-## Penggabungan IP
+### Penggabungan IP
 
 <img width="2500" alt="cidr" src="https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/d925e28c-2da9-4e80-b7d9-dc53e48f696e">
 
@@ -60,4 +60,6 @@ https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/fd3cd4a5-6b2
 ![Cuplikan layar 2023-12-05 173605](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/ff832ebf-b030-4b16-b958-b49a5fcb4703)
 
 ![Cuplikan layar 2023-12-05 173716](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/4c742f18-44f5-4f74-a248-13beee1656ad)
+
+### Tree
 
