@@ -9,6 +9,10 @@ Kelompok E29
 # Laporan Resmi
 * [Topologi](#Topologi)
 * [VLSM](#VLSM)
+  * [Subnetting](#Subnetting)
+  * [Rute](#Rute)
+  * [Tree](#Tree)
+  * [Pembagian IP](#Pembagian-IP)   
 * [CIDR](#CIDR)
 
 ## Topologi
