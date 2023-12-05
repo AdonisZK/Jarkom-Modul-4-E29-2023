@@ -21,19 +21,19 @@ Kelompok E29
 
 ## VLSM
 ### Subnetting
-Melakukan subnetting untuk dapat menentukan rute.
+Melakukan subnetting untuk dapat menentukan rute. <br />
 ![WhatsApp Image 2023-12-05 at 16 05 00](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/ee5fb45d-3b1e-49e2-b1fb-ecc73a314eca)
 
 ### Rute
-Rute yang didapat setelah melakukan subnetting.
+Rute yang didapat setelah melakukan subnetting. <br />
 ![Cuplikan layar 2023-12-05 160155](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/32bfb63a-c662-401f-abfc-638af0c12fd0)
 
 ### Tree
-Membuat tree untuk dapat menentukan pembagian IP.
+Membuat tree untuk dapat menentukan pembagian IP. <br />
 ![WhatsApp Image 2023-12-02 at 19 12 49](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/f88799c3-f6ea-4626-bcf3-793a64773f3e)
 
 ### Pembagian IP
-Pembagian IP berdasarkan tree yang telah dibuat.
+Pembagian IP berdasarkan tree yang telah dibuat. <br />
 ![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/53437903-8db1-454f-a7f6-dd84c80bc33c)
 
 ### Konfigurasi Network
