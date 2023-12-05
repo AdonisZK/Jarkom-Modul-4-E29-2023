@@ -15,6 +15,8 @@ Kelompok E29
   * [Pembagian IP](#Pembagian-IP)
   * [Konfigurasi Network](#Konfigurasi-Network)    
 * [CIDR](#CIDR)
+  * [Penggabungan IP](#Penggabungan-IP)
+  * 
 
 ## Topologi
 
@@ -42,3 +44,7 @@ Pembagian IP berdasarkan tree yang telah dibuat.
 ![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/53437903-8db1-454f-a7f6-dd84c80bc33c)
 
 ### Konfigurasi Network
+
+## CIDR
+## Penggabungan IP
+
