@@ -48,6 +48,83 @@ Pembagian IP berdasarkan tree yang telah dibuat.
 ![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/53437903-8db1-454f-a7f6-dd84c80bc33c)
 
 ### Konfigurasi Network
+#### Router - Aura
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/1506a9da-f4d1-408e-b44e-fc948182fee2)
+
+#### Router - Frieren
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/1a30447b-8907-4881-95a8-e5330b4661b6)
+
+#### Router - Flamme
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/a3c1ade4-7512-4475-a09b-01043155fe8a)
+
+#### Router - Fern
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/c9c56d9c-61c9-4b17-bb94-d087239a8544)
+
+#### Router - Himmel
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/76673f35-7763-4f58-b840-77b17ef6da8f)
+
+#### Router - Denken
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/c17e53e0-3570-4a02-bd51-51bfa4568f4d)
+
+#### Router - Eisen
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/7bc9d9ac-cd2b-45d0-85b1-2e16991971ba)
+
+#### Router - Linie
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/a76a49d8-e6cd-4211-977c-12ca1e8dd1de)
+
+#### Router - Lawine
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/ac8ecaea-28b8-405a-b282-8108a81e8dfc)
+
+#### Router - Heiter
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/7251494f-0134-4286-b440-74de6e6f429e)
+
+#### Laubhills
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/9999cdac-a793-45ef-b0c0-834cf181c281)
+
+#### AppetitRegion
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/bcd08595-0d6e-4e95-8d15-b7646d3903be)
+
+#### RorhRoad
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/9b28cbbb-f259-4d28-91f4-3a21cd9f85b0)
+
+#### SchwerMountains
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/2e0a7486-55f9-4a0d-abd5-2bac8b1a6696)
+
+#### LakeKorridor
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/09f1d885-3616-4cef-bc1e-c3b2982f6f4d)
+
+#### RoyalCapital
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/b71c8339-cc8b-4c0f-b054-a54ff3ef7c6c)
+
+#### WilleRegion
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/7dc39d73-6803-4b52-ab05-bb9bfa9ef275)
+
+#### Stark
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/68e98125-543e-443b-ba81-7a3d6fcd8eb2)
+
+#### Richter
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/e53d1ec9-5835-405c-9c60-aefb454abca6)
+
+#### Revolte
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/76fbed30-ae7b-4ce1-b0c9-78fd7b8cf99f)
+
+#### TurkRegion
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/65bdce80-0f25-4280-ba84-3d2bc8eafaa7)
+
+#### GrobeForest
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/042c45ca-248f-462e-bfc3-e06fdb83cc46)
+
+#### GranzChannel
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/a2f3dfe4-7332-47e0-a1d7-d15bb1ce4e7a)
+
+#### BredtRegion
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/a4416326-4fcf-4982-a08c-14134e30e06a)
+
+#### RiegelCanyon
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/8f73291b-ccf0-4894-b64f-57a8dfc0a8b5)
+
+#### Sein
+![image](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/eb55e8c9-f1b9-413c-9595-f29df0a0f91c)
 
 ### Testing-CPT
 https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/fd3cd4a5-6b2a-4864-9123-0e936d59159d
