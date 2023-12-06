@@ -71,7 +71,7 @@ Membuat tree untuk dapat menentukan pembagian IP.
 ### Pembagian IP CIDR
 Pembagian IP berdasarkan tree yang telah dibuat.
 
-![Cuplikan layar 2023-12-06 175430](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/abce3a87-e860-496c-a591-d1238c871ccb)
+![Cuplikan layar 2023-12-06 180333](https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/22a69a76-c491-4442-8b21-e04acab9ce08)
 
 ### Config
 
