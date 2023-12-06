@@ -49,7 +49,7 @@ Pembagian IP berdasarkan tree yang telah dibuat.
 
 ### Konfigurasi Network
 
-### Testing
+### Testing-CPT
 https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/48209612/fd3cd4a5-6b2a-4864-9123-0e936d59159d
 
 ## CIDR
@@ -442,3 +442,6 @@ iface eth0 inet static
 	netmask 255.255.255.252
 	gateway 10.51.72.1
 ```
+
+### Testing-GNS
+https://github.com/AdonisZK/Jarkom-Modul-4-E29-2023/assets/90591077/b7387ca0-2a5f-4ef2-8fed-18211197306d
